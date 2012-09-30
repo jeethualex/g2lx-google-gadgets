@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+<ModulePrefs title="hello world example" />
+<Content type="html"><![CDATA[
+<div>
+
+<img src="https://www.google.com/chart?chc=sites&amp;cht=d&amp;chdp=sites&amp;chl=%5B%5BGoogle+Gadget'%3D20'f%5Cv'a%5C%3D0'10'%3D499'0'dim'%5Cbox1'b%5CF6F6F6'fC%5CF6F6F6'eC%5C0'sk'%5C%5B%22Include+gadget+(iframe)%22'%5D'a%5CV%5C%3D12'f%5C%5DV%5Cta%5C%3D10'%3D0'%3D500'%3D297'dim'%5C%3D10'%3D10'%3D500'%3D297'vdim'%5Cbox1'b%5Cva%5CF6F6F6'fC%5CC8C8C8'eC%5C'a%5C%5Do%5CLauto'f%5C&amp;sig=IJSw0xKlnAnXVyv4GW_C-D4_x8o" data-igsrc="http://76.gmodules.com/ig/ifr?mid=76&amp;synd=trogedit&amp;url=http%3A%2F%2Fwww.gstatic.com%2Fsites-gadgets%2Fiframe%2Fiframe.xml&amp;up_iframeURL=http%3A%2F%2Fwww.google.com%2Flatitude%2Fapps%2Fbadge%2Fapi%3Fuser%3D-4432539403246873506%26type%3Diframe%26maptype%3Droadmap&amp;up_scroll=auto&amp;h=300&amp;w=100%25" data-type="ggs-gadget" data-props="align:left;borderTitle:My Location;height:300;igsrc:http#58//76.gmodules.com/ig/ifr?mid=76&amp;synd=trogedit&amp;url=http%3A%2F%2Fwww.gstatic.com%2Fsites-gadgets%2Fiframe%2Fiframe.xml&amp;up_iframeURL=http%3A%2F%2Fwww.google.com%2Flatitude%2Fapps%2Fbadge%2Fapi%3Fuser%3D-4432539403246873506%26type%3Diframe%26maptype%3Droadmap&amp;up_scroll=auto&amp;h=300&amp;w=100%25;mid:76;scrolling:no;showBorder:true;showBorderTitle:null;spec:http#58//www.gstatic.com/sites-gadgets/iframe/iframe.xml;up_iframeURL:http#58//www.google.com/latitude/apps/badge/api?user=-4432539403246873506&amp;type=iframe&amp;maptype=roadmap;up_scroll:auto;view:default;width:100%;" width="500" height="300" style="display:block;text-align:left;margin-right:auto;" class="igm">
+
+</div>
+
+]]></Content>
+</Module>
+​

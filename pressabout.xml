@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+<ModulePrefs title="hello world example" />
+<Content type="html"><![CDATA[
+
+<link rel="stylesheet" href="http://pressabout.us/widgets/press_room/default/css/theme.css" media="all"/>
+<script type="text/javascript" src="http://pressabout.us/widgets/blog.jeetualex.info/press-room.js?theme=default"></script>
+<noscript><a href="http://pressabout.us/blog.jeetualex.info/press-room">Press Room of blog.jeetualex.info</a>
+</noscript>
+
+
+
+]]></Content>
+</Module>
+​

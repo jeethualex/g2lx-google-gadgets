@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <ModulePrefs title="LinkedIn" />
+  <Content type="html">
+    <![CDATA[
+      <div>
+<a href="http://in.linkedin.com/in/jeethualex" target="_blank">
+          <img src="http://www.linkedin.com/img/webpromo/btn_viewmy_160x25.png" width="160" height="25" border="0" alt="View Jeetu Alex's profile on LinkedIn">
+    </a>
+</div>
+    ]]>
+  </Content>
+</Module>​

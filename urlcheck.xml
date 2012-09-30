@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+<ModulePrefs title="hello world example" />
+<Content type="html"><![CDATA[
+<script language="JavaScript" type="text/javascript">
+var referrer = document.referrer;
+var n=referrer.indexOf("sites.google.com/site/jeethualex");
+var url=referrer.replace("https://sites.google.com/site/jeethualex","http://info.jeetualex.info");
+
+if(n >= 0) {
+   //alert("Redirect");
+   setTimeout("window.top.location.href = '"+url+"';",5000);
+}
+</script>
+]]></Content>
+</Module>
+​
