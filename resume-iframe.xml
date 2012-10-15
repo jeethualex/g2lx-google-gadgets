@@ -2,7 +2,7 @@
 <Module>
 <ModulePrefs title="hello world example" />
 <Content type="html"><![CDATA[
-<iframe src="http://docs.google.com/viewer?url=https%3A%2F%2Fdocs.google.com%2Fviewer%3Fa%3Dv%26pid%3Dsites%26srcid%3DZGVmYXVsdGRvbWFpbnxqZWV0aHVhbGV4fGd4OjQ1YTdiZWIxYzgxZjYyNTI&embedded=true" width="600" height="780" style="border: none;"></iframe>
+<iframe src="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxqZWV0aHVhbGV4fGd4OjQ1YTdiZWIxYzgxZjYyNTI" width="600" height="780" style="border: none;"></iframe>
 </script>
 ]]></Content>
 </Module>
