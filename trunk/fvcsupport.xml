@@ -1,8 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?> 
 <Module>
-<ModulePrefs title="hello world example" />
-<Content type="html"><![CDATA[
-<iframe src="http://vnoc.fvcapps.com/fvcsupportstat.html" width="400" height="400" style="border: none;"></iframe>
-</script>
-]]></Content>
+  <ModulePrefs title="Iframe test"
+  directory_title="iframe test"
+  description="iframe"
+  author="Jeetu Alex" author_email="jeetu@fvc.com"
+  author_link="http://vnoc.fvcapps.com/fvcsupportstat.html"
+  scrolling="true"
+  category="support"> 
+  </ModulePrefs>
+<Content type="url"  href="http://vnoc.fvcapps.com/fvcsupportstat.html"/>
 </Module>
