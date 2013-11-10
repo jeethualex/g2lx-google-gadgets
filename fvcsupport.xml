@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+<ModulePrefs title="hello world example" />
+<Content type="html"><![CDATA[
+<iframe src="http://vnoc.fvcapps.com/fvcsupportstat.html" width="600" height="780" style="border: none;"></iframe>
+</script>
+]]></Content>
+</Module>
